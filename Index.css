@@ -1,5 +1,12 @@
 body {
-    background-image: url("http://www.funny-animalpictures.com/media/content/items/images/funnydinosaurs0045_O.jpg");
-    background-color: indianred;
-    font-family: 'Times New Roman'
+    color: black;
+   /* background-image: -webkit-gradient(linear, left top, left bottom, from(blue), to(red));*/
+    background: linear-gradient(141deg, #42f4a4 0%, #0fb8ad 20%, #1fc8db 51%, #9cb5e8 75%);
+    font-family: 'Times New Roman','Helvetica';
+    font-size: 20;
+    height: 100%;
+    margin: 0;
+}
+h1 {
+    text-align: center;
 }
